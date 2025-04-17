@@ -1,16 +1,7 @@
-# manager_app
+## 👨‍💻 Nhóm phát triển
 
-A new Flutter project.
+![Nhóm phát triển](https://github.com/user-attachments/assets/0b7dbf8f-4ed8-4eca-9072-34b05546f8f7)
 
-## Getting Started
+## 🔐 Giao diện đăng nhập
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Trang đăng nhập](https://github.com/user-attachments/assets/30f59381-ecda-4515-8f48-3e33f2cbc13e)
