@@ -1,6 +1,6 @@
 {
-    "name": "manager_app",
-    "short_name": "manager_app",
+    "name": "agro_manager",
+    "short_name": "agro_manager",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

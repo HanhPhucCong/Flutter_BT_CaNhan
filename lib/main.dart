@@ -1,18 +1,19 @@
 import 'package:flutter/material.dart';
-import 'splash_screen.dart';
+import 'screen/splash_screen.dart';
 
 void main() {
-  runApp(const ManagerApp());
+  runApp(const MyApp());
 }
 
-class ManagerApp extends StatelessWidget {
-  const ManagerApp({Key? key}) : super(key: key);
+class MyApp extends StatelessWidget {
+  const MyApp({super.key});
 
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Manager App',
+      title: 'Agro Market Manager',
       debugShowCheckedModeBanner: false,
+      theme: ThemeData(primarySwatch: Colors.blue),
       home: const SplashScreen(),
     );
   }
